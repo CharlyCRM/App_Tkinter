@@ -5,8 +5,7 @@ App de escritorio con conexión a una base de datos que tiene como objetivo, ser
 - Editar un producto
 - Eliminar un producto
 
-  === Dependencias ==
-
-  - pip==23.1.2
-  - setuptools==67.8.0
-  - wheel==0.40.0
+=== Dependencias ==
+- pip==23.1.2
+- setuptools==67.8.0
+- wheel==0.40.0
